@@ -71,7 +71,7 @@ Student support
 ---------------
 
 Office hours:
-	Wednesdays, 10h-12h, room C6.3.17
+	Fridays, 10h-12h, room C6.3.17
 
 By email:
 	docentes-pcm@listas.di.ciencias.ulisboa.pt
@@ -80,7 +80,7 @@ By email:
 Schedule
 -------
 
-[Official FCUL website](https://fenix.ciencias.ulisboa.pt/courses/pcmul-4-2254879305237227/horario)
+[Official FCUL website](https://ciencias.ulisboa.pt/servicosCake/servicoHorarios/horarios/toPdf/1/unidade_curricular_PCM_761.html)
 
 
 Grading
