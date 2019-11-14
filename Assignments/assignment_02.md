@@ -43,7 +43,7 @@ The report is as important as the working code — This is a Masters-level cours
 
 The report should not exceed one A4 page.
 
-*DEADLINE:* November 29th, 2018 AOE
+*DEADLINE:* November 27th, 2018 AOE
 
 
 
