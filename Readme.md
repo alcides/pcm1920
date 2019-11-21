@@ -83,6 +83,13 @@ Schedule
 [Official FCUL website](https://ciencias.ulisboa.pt/servicosCake/servicoHorarios/horarios/toPdf/1/unidade_curricular_PCM_761.html)
 
 
+
+Paper + Presentations
+---------------------
+
+Deadline: 26th January 2020
+Presentations: 27th January 2020, 14h (tentative)
+
 Grading
 ---------
 
