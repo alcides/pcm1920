@@ -1,6 +1,8 @@
 P5 CPU vs GPU Review
 =======================
 
+Reserved for João David and Ye Yang
+
 Using skeletons, one can write programs that can execute on both the CPU and the GPU. To decide in which one to run, one needs runtime information such as the data size.
 
 Write a review that covers different approaches for taking this decision, regardless of being online or offline approaches.
