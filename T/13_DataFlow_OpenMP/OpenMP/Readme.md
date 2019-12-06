@@ -1,0 +1,1 @@
+More about [OpenMP scheduling policies](https://software.intel.com/en-us/vtune-cookbook-openmp-imbalance-and-scheduling-overhead).
