@@ -1,0 +1,1 @@
+gcc omp_hello.c -o hello -fopenmp
