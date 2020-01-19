@@ -38,7 +38,7 @@ To: docentes-pcm@listas.di.ciencias.ulisboa.pt
 Subject: Final_Project
 ```
 
-*DEADLINE:* January 22th, 2018 AOE
+*DEADLINE:* January 26th, 2019 AOE
 
 You should include your paper and any source code used or developed (including bash scripts for testing).
 
